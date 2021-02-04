@@ -22,6 +22,7 @@ int main()
 
 	cout << "Anzahl: " << anzahl << endl;
 	cout << "Preis: " << preis << " Euro" << endl;
+
 }
 
 
